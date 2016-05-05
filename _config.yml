@@ -10,7 +10,7 @@ title: Ronit Halder
 email: ronit.crj@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
  This is my blog. I will use this blog primarily for GSOC 2016. Here I will write about new experiences in life.
- I will write about pretty much what is on my mind.
+ I will write about pretty much anything that is on my mind.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
